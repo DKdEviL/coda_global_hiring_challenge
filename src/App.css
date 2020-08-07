@@ -26,10 +26,10 @@
 
 .input {
   height: 36px;
-  background-color: lightskyblue;
+  background-color: yellow;
   font-weight: bold;
   font-size: medium;
-  color: white;
+  color: black;
   
 }
 .App-header {

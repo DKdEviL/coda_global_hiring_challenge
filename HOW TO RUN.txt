@@ -1,0 +1,6 @@
+Please follow the steps:
+1. Download Zip file from https://github.com/DKdEviL/coda_global_hiring_challenge.git
+2. Extract zip and open the extracted folder.
+3. Open Command Prompt in the folder and run the following commands.
+4. Run `yarn install`
+5. Run `yarn start`
